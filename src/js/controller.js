@@ -15,12 +15,6 @@ import { async } from 'regenerator-runtime';
 
 // https://forkify-api.herokuapp.com/v2
 
-///////////////////////////////////////
-//from parcel
-// if (module.hot) {
-//   module.hot.accpet();
-// }
-
 const controlRecipies = async function () {
   try {
     //get the id dynamicly
